@@ -1,5 +1,10 @@
 package com.microemple.twitter;
 
+/**
+ * By MT
+ * 
+ * 
+ */
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import android.app.Activity;
